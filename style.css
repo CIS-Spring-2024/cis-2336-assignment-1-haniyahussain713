@@ -77,21 +77,6 @@ width:404px;
 float:left;
 }
 
-#leftmenu_top
-{
-width:404px;
-height:13px;
-background-image:url(images/leftmenu_top.png);
-background-repeat: no-repeat;
-}
-#leftmenu_bottom
-{
-width:404px;
-height:13px;
-background-image:url(images/leftmenu_bottom.png);
-background-repeat: no-repeat;
-}
-
 #leftmenu_main
 {
 width:404px;
